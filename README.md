@@ -11,6 +11,7 @@ Virat Kohli <br />
 <img src="https://github.com/pdheeraj190802/Image_Classifier/assets/98040022/70f6347e-6ef6-4b8b-9a2c-147e8d8e0deb" width="200" />
 Roger Federer <br />
 
+<br />
 Model: Contains python notebook. <br />
 Data Collection: Google images (Fatkun Batch Download Image). <br />
 Images_dataset: Dataset used for our model training. <br />
