@@ -2,14 +2,14 @@
 
 In this project, I classified sports personalities. I restricted the classification to only 4 people,
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
+Maria Sharapova,
+Serena Williams,
+Virat Kohli,
+Roger Federer.
 
-## Model: Contains python notebook for model building
-## Data Collection: Google images (Fatkun Batch Download Image)
-## Images_dataset: Dataset used for our model training
+### Model: Contains python notebook for model building
+### Data Collection: Google images (Fatkun Batch Download Image)
+### Images_dataset: Dataset used for our model training
 
 # Technologies used in this project,
 
