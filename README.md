@@ -13,8 +13,8 @@ Roger Federer.
 
 # Technologies used in this project,
 
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook
+Python <br />
+Numpy and OpenCV for data cleaning <br />
+Matplotlib & Seaborn for data visualization <br />
+Sklearn for model building <br />
+Jupyter notebook <br />
