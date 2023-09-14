@@ -2,7 +2,7 @@
 
 In this project, I classified sports personalities. I restricted the classification to only 4 people,
 
-![sharapova1](https://github.com/pdheeraj190802/Image_Classifier/assets/98040022/fc5dda2a-295a-45f0-9f91-e6fe0fb1c06f)
+![sharapova1,width="200"](https://github.com/pdheeraj190802/Image_Classifier/assets/98040022/fc5dda2a-295a-45f0-9f91-e6fe0fb1c06f)
 Maria Sharapova <br />
 ![1200px-Serena-Smiling-2020](https://github.com/pdheeraj190802/Image_Classifier/assets/98040022/86606d57-1da8-4b2d-a61a-d4b483f1bf30)
 Serena Williams <br />
